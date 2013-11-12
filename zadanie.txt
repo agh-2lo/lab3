@@ -1,0 +1,1 @@
+Proszę uzupełnić funkcję sito(n). Funkcja ta ma zwracać liczby pierwsze w przedziale [2, n]. Załączono kod testujący
