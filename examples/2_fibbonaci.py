@@ -19,5 +19,6 @@ def testuj(fib):
         else:
             print fib.__name__, x, " OK"
 
+testuj(fib_iter)     
 testuj(fib_rec)        
-testuj(fib_iter)        
+   
