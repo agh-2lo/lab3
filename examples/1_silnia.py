@@ -16,5 +16,6 @@ def testuj(silnia):
         else:
             print silnia.__name__, x, " OK"
 
+testuj(silnia_iter)    
 testuj(silnia_rec)        
-testuj(silnia_iter)        
+    
